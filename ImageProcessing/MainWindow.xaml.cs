@@ -15,7 +15,7 @@ namespace ImageProcessing
     using ImageProcessingTechniques;
 
     /// <summary>
-    /// Interaction logic for MainWindow.xaml.
+    /// Interaction logic for MainWindow.
     /// </summary>
     public partial class MainWindow
     {
